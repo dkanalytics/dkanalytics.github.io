@@ -25,4 +25,11 @@ Turned a year of raw transaction data into a one-page dashboard that shows wheth
 - Insight generation: translating metrics into a Key Insights / Action Items narrative
 - Formula auditing and debugging
 
+# [PROJECT 2: HR ANALYTICS] (https://github.com/dkanalytics/HR-Analytics/)
+
+<img width="1342" height="662" alt="Employee-Salary-Dashboard" src="https://github.com/user-attachments/assets/f7145e2d-7d1c-4c17-8f0a-04b53d5a2ac2" />
+
+Interactive Excel Dashboard.
+
+<img width="1342" height="662" alt="Main-Screen-Shot-GIF22" src="https://github.com/user-attachments/assets/48b6439f-0484-44cd-824a-9d51049545b2" />
 
