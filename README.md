@@ -18,6 +18,21 @@ Brackenfield Hardware & Supply Co. is a simulated distributor selling fasteners,
 ### The brief:
 Turned a year of raw transaction data into a one-page dashboard that shows whether the business is hitting its sales targets, where revenue is concentrated, and what to act on next.
 
+### Key Insights
+
+1. The business missed its annual target by 8.8%.
+2. April, May, and June all came in well under target, and things dipped again in August and September.
+3. Export accounts for R531,575.62, or 54% of total revenue which more than every other region combined.
+4. India alone drives 46% of total sales.
+5. Revenue is moderately concentrated in the top customers. 40 unique customers in total; the top 10 account for 41.6% of revenue. The single largest customer, Stonebridge Commercial, contributes R60,929 (6.2% of total).
+6. Door Latch Set and PVC Elbow 20mm are the standout products. Together they contribute approxiamately R115,500 (11.7% of total sales): meaningfully ahead of the rest of the Top 10, which cluster much closer together (R35K–R50K each).
+
+### Action Items
+
+1. Diagnose the April - September slump to determine reasons for target not being met
+2. Reduce dependency on Export/India. A single region and a single country each account for roughly half of revenue. Any disruption there has outsized impact.
+3. Assess low-frequency customers,  and check whether these are new, lapsing, or simply low-volume accounts
+
 ## Skills demonstrated
 - Data cleaning: XLOOKUP/VLOOKUP-based ID-to-name mapping without breaking table relationships
 - PivotTables & PivotCharts
