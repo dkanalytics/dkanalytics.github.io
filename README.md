@@ -33,3 +33,19 @@ Interactive Excel Dashboard.
 
 <img width="1342" height="662" alt="Main-Screen-Shot-GIF22" src="https://github.com/user-attachments/assets/48b6439f-0484-44cd-824a-9d51049545b2" />
 
+## About:
+
+Nexora is a simulated multinational company with employees across multiple departments and geographic regions.
+
+### The brief:
+
+The objective was to transform raw employee data into an interactive Excel dashboard that provides insight into workforce compensation, bonus allocation, demographics, and departmental salary trends. The dashboard enables HR and management teams to identify salary patterns, monitor compensation distribution, and make data-driven decisions regarding workforce planning.
+
+Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
+
+Key findings included:
+- HR and Procurement departments recorded the highest average salaries.
+- Approximately 98% of employees received bonuses.
+- Female employees earned slightly higher average salaries than male employees within the dataset.
+
+
