@@ -43,9 +43,17 @@ The objective was to transform raw employee data into an interactive Excel dashb
 
 Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
 
-Key findings included:
+### Key findings included:
 - HR and Procurement departments recorded the highest average salaries.
 - Approximately 98% of employees received bonuses.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
+
+## Skills Demonstrated
+- Data Cleaning and Validation
+- Data Structuring and Preparation
+- Exploratory Data Analysis (EDA)
+- PivotTables and PivotCharts
+- KPI Development
+- Dashboard Design with interactive Reporting
 
 
