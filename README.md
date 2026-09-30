@@ -33,7 +33,7 @@ Turned a year of raw transaction data into a one-page dashboard that shows wheth
 2. Reduce dependency on Export/India. A single region and a single country each account for roughly half of revenue. Any disruption there has outsized impact.
 3. Assess low-frequency customers,  and check whether these are new, lapsing, or simply low-volume accounts
 
-## Skills demonstrated
+## Skills Demonstrated
 - Data cleaning: XLOOKUP/VLOOKUP-based ID-to-name mapping without breaking table relationships
 - PivotTables & PivotCharts
 - KPI calculation via GETPIVOTDATA
