@@ -1,9 +1,10 @@
-Hi, I am Dany Kukosama
+<h1 align="center">Hi, I am Dany Kukosama </h1>
 
+<p align="center">
 Data analyst focused on turning raw data into decisions. This page indexes my projects across Excel, SQL, Python, and Power BI.
+</p>
 
-email:danykukosama@gmail.com
-
+📧 [danykukosama@gmail.com](mailto:danykukosama@gmail.com)
 # [PROJECT 1: SALES DISTRIBUTION DASHBOARD]( https://dkanalytics.github.io/sales-distribution-dashboard/)
 
 <img width="100%" alt="Main Screen Shot" src="https://github.com/user-attachments/assets/a0dde3bb-fe81-4ba2-a567-161aeb8dc7ef" />
@@ -18,7 +19,7 @@ Brackenfield Hardware & Supply Co. is a simulated distributor selling fasteners,
 ### The brief:
 Turned a year of raw transaction data into a one-page dashboard that shows whether the business is hitting its sales targets, where revenue is concentrated, and what to act on next.
 
-### Key Insights
+## Key Insights
 
 1. The business missed its annual target by 8.8%.
 2. April, May, and June all came in well under target, and things dipped again in August and September.
@@ -60,7 +61,7 @@ The objective was to transform raw employee data into an interactive Excel dashb
 
 Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
 
-### Key findings included:
+## Key findings included:
 - Performance ratings barely track with pay. With the average salary by rating being nearly flat 2. Performance ratings barely track with pay.
 - Average salary by rating is nearly flat: Very Poor ($77,423), Poor ($78,115), Average ($76,799), Above Average ($75,933) all sit within about $2,200 of each other.  
 
@@ -68,7 +69,7 @@ Rather than presenting raw metrics alone, the project focused on extracting acti
 - Approximately 98% (150 out of 153) of employees received bonuses.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
 
-## Action Items: 
+### Action Items: 
 
 **1) Investigate the Website department's gender pay gap specifically.**
 
