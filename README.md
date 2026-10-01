@@ -7,6 +7,9 @@ Data analyst focused on turning raw data into decisions. This page indexes my pr
 - Actively seeking Data Analyst / Reporting roles
 
 📧 [danykukosama@gmail.com](mailto:danykukosama@gmail.com)
+
+--- 
+
 # [PROJECT 1: SALES DISTRIBUTION DASHBOARD]( https://dkanalytics.github.io/sales-distribution-dashboard/)
 
 <img width="100%" alt="Main Screen Shot" src="https://github.com/user-attachments/assets/a0dde3bb-fe81-4ba2-a567-161aeb8dc7ef" />
@@ -44,6 +47,8 @@ Turned a year of raw transaction data into a one-page dashboard that shows wheth
 - Target-variance analysis (MoM-style tracking within a single year of data)
 - Insight generation: translating metrics into a Key Insights / Action Items narrative
 - Formula auditing and debugging
+
+---
 
 # [PROJECT 2: HR ANALYTICS](https://dkanalytics.github.io/HR-Analytics/) 
 
