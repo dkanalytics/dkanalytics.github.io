@@ -4,6 +4,8 @@
 Data analyst focused on turning raw data into decisions. This page indexes my projects across Excel, SQL, Python, and Power BI.
 </p>
 
+Actively seeking Data Analyst / Reporting roles
+
 📧 [danykukosama@gmail.com](mailto:danykukosama@gmail.com)
 # [PROJECT 1: SALES DISTRIBUTION DASHBOARD]( https://dkanalytics.github.io/sales-distribution-dashboard/)
 
