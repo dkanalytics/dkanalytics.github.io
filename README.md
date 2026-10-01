@@ -61,9 +61,26 @@ The objective was to transform raw employee data into an interactive Excel dashb
 Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
 
 ### Key findings included:
+- Performance ratings barely track with pay. With the average salary by rating being nearly flat 2. Performance ratings barely track with pay.
+- Average salary by rating is nearly flat: Very Poor ($77,423), Poor ($78,115), Average ($76,799), Above Average ($75,933) all sit within about $2,200 of each other.  
+
 - HR and Procurement departments recorded the highest average salaries.
-- Approximately 98% of employees received bonuses.
+- Approximately 98% (150 out of 153) of employees received bonuses.
 - Female employees earned slightly higher average salaries than male employees within the dataset.
+
+## Action Items: 
+
+**1) Investigate the Website department's gender pay gap specifically.**
+
+It is the one place where the company-wide "women earn more" pattern reverses, and by a wide margin — worth understanding whether that's role/seniority mix or something else before it becomes a compliance question.
+
+**2) Review whether performance ratings should influence pay more than they currently do.**
+
+With Poor and Very Poor performers earning about the same as Average performers, the current pay structure doesn't obviously incentivize the rating system it uses.
+
+**3) Check the three zero-bonus employees individually.**
+
+Confirm whether it's a deliberate policy reason (e.g. probation period, recent start) or a data entry gap.
 
 ## Skills Demonstrated
 - Data Cleaning and Validation
