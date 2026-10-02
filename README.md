@@ -69,8 +69,7 @@ The objective was to transform raw employee data into an interactive Excel dashb
 Rather than presenting raw metrics alone, the project focused on extracting actionable insights from the data.
 
 ## Key findings included:
-- Performance ratings barely track with pay. With the average salary by rating being nearly flat 2. Performance ratings barely track with pay.
-- Average salary by rating is nearly flat: Very Poor ($77,423), Poor ($78,115), Average ($76,799), Above Average ($75,933) all sit within about $2,200 of each other.  
+- Performance ratings barely track with pay. With the average salary by rating being nearly flat. The ratings: Very Poor ($77,423), Poor ($78,115), Average ($76,799), Above Average ($75,933) all sit within about $2,200 of each other.  
 
 - HR and Procurement departments recorded the highest average salaries.
 - Approximately 98% (150 out of 153) of employees received bonuses.
